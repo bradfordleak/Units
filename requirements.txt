@@ -1,0 +1,8 @@
+# requirements for Units
+coverage
+mock
+pylint
+pytest
+pytest-cov
+sphinx
+wheel
